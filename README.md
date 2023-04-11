@@ -1,8 +1,10 @@
 <h1>Tom Davies</h1>
 <h3>2nd year Maths student at Cambridge.</h3>
 <h4>Contact me:</h4>
-davies.evan.tom@gmail.com
-td471@cam.ac.uk
+[davies.evan.tom@gmail.com](mailto:davies.evan.tom@gmail.com)
+<br>
+[td471@cam.ac.uk](mailto:td471@cam.ac.uk)
+<br>
 My CV can also be found [here](https://tomdvies.github.io/tomdaviescv2023.pdf)
 
 <h4>Current interests:</h4>
@@ -16,8 +18,15 @@ My CV can also be found [here](https://tomdvies.github.io/tomdaviescv2023.pdf)
 - Low level hardware development.
 
 <h4>Languages & Skills</h4>
+
 - Python
--
+
+- C++-
+- C
+- Objective C & C++
+- Binary inspection using tools like Ghidra/IDA
+- Reverse engineering of APIs
+
 
 ### Languages / Frameworks
 
