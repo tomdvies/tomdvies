@@ -8,11 +8,8 @@
 <h4>Current interests:</h4>
 
 - iOS Tweaks and Dev tools for jailbroken devices.
-
 - Reverse engineering Apps, APIs and hardware.
-
 - Computational modelling.
-
 - Low level hardware development.
 
 <h4>Languages & Skills:</h4>
