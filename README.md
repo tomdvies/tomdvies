@@ -2,7 +2,7 @@
 <h4>Contact me:</h4>
 [davies.evan.tom@gmail.com](mailto:davies.evan.tom@gmail.com)
 <br>
-[Contact Us](mailto:admin@w3schools.io)
+[ContactUs](mailto:admin@w3schools.io)
 [td471@cam.ac.uk](mailto:td471@cam.ac.uk)
 <br>
 My CV can also be found [here](https://tomdvies.github.io/tomdaviescv2023.pdf)
@@ -26,8 +26,7 @@ My CV can also be found [here](https://tomdvies.github.io/tomdaviescv2023.pdf)
 - Objective C & C++
 - Binary inspection using tools like Ghidra/IDA
 - Reverse engineering of APIs
-<br>
 
-## Github Stats
+<h4> Github Stats</h4>
 ![](https://github-readme-stats.vercel.app/api?username=tomdvies&theme=dark&hide_border=false&include_all_commits=false&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tomdvies&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
