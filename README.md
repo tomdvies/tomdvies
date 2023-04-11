@@ -1,6 +1,7 @@
 <h1>Tom Davies, 2nd year Maths student at Cambridge.</h1>
 <h4>Contact me:</h4>
-My CV can also be found [here](https://tomdvies.github.io/tomdaviescv2023.pdf)
+<a href="malto:davies.evan.tom@gmail.com">davies.evan.tom@gmail.com</a>
+My CV can also be found <a href="https://tomdvies.github.io/tomdaviescv2023.pdf">here</a>
 
 <h4>Current interests:</h4>
 
