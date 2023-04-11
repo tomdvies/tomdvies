@@ -6,12 +6,13 @@ td471@cam.ac.uk
 My CV can also be found [here](https://tomdvies.github.io/tomdaviescv2023.pdf)
 
 <h4>Current interests:</h4>
+
 - iOS Tweaks and Dev tools for jailbroken devices.
 
 - Reverse engineering Apps, APIs and hardware.
 
 - Computational modelling.
-§
+
 - Low level hardware development.
 
 <h4>Languages & Skills</h4>
