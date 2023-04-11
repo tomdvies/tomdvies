@@ -74,6 +74,5 @@ My CV can also be found [here](https://tomdvies.github.io/tomdaviescv2023.pdf)
 <br>
 
 ## &#x1f4c8; Random Stats
-![](https://github-readme-stats.vercel.app/api?username=tomdvies&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=tomdvies&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=tomdvies&theme=dark&hide_border=false&include_all_commits=false&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tomdvies&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
