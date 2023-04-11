@@ -2,7 +2,7 @@
 <h4>Contact me:</h4>
 
 - <a href="mailto:davies.evan.tom@gmail.com">davies.evan.tom@gmail.com</a>
-- My CV can also be found <a href="https://tomdvies.github.io/tomdaviescv2023.pdf">here</a>
+- My CV can also be found <a href="https://tomdvies.github.io/tomdaviescv2023.pdf">here</a>.
 
 <h4>Current interests:</h4>
 
@@ -17,8 +17,7 @@
 <h4>Languages & Skills</h4>
 
 - Python
-
-- C++-
+- C++
 - C
 - Objective C & C++
 - Binary inspection using tools like Ghidra/IDA
