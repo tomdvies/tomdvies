@@ -1,4 +1,8 @@
-<h1>Tom Davies, 2nd year Maths student at Cambridge.</h1>
+<h2>Tom Davies</h2>
+<h4>About me:</h4>
+
+I'm a 2nd year Maths student at Cambridge with an interest in applied maths, and computing.
+
 <h4>Contact me:</h4>
 
 - <a href="mailto:td471@cam.ac.uk">td471@cam.ac.uk</a>
@@ -10,13 +14,11 @@
 - iOS Tweaks and Dev tools for jailbroken devices.
 - Reverse engineering Apps, APIs and hardware.
 - Computational modelling.
-- Low level hardware development.
 
 <h4>Languages & Skills:</h4>
 
 - Python
-- C++
-- C
+- C++ & C
 - Objective C & C++
 - Binary inspection using tools like Ghidra/IDA
 - Reverse engineering of APIs
