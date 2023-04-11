@@ -1,5 +1,5 @@
 <h1>Tom Davies</h1>
-<h3>2nd year Maths student at Cambridge.</h3>
+<h1>2nd year Maths student at Cambridge.</h1>
 <h4>Contact me:</h4>
 [davies.evan.tom@gmail.com](mailto:davies.evan.tom@gmail.com)
 <br>
@@ -84,6 +84,6 @@ My CV can also be found [here](https://tomdvies.github.io/tomdaviescv2023.pdf)
 
 <br>
 
-## &#x1f4c8; Random Stats
+## Github Stats
 ![](https://github-readme-stats.vercel.app/api?username=tomdvies&theme=dark&hide_border=false&include_all_commits=false&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tomdvies&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
