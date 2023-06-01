@@ -7,7 +7,7 @@ I'm a 2nd year Maths student at Cambridge with an interest in applied maths, and
 
 - <a href="mailto:td471@cam.ac.uk">td471@cam.ac.uk</a>
 - <a href="mailto:davies.evan.tom@gmail.com">davies.evan.tom@gmail.com</a>
-- My CV can also be found <a href="https://tomdvies.github.io/tomdaviescv2023.pdf">here</a>.
+- My CV is available on request.
 
 <h4>Current interests:</h4>
 
