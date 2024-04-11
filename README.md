@@ -1,7 +1,7 @@
 <h2>Tom Davies</h2>
 <h4>About me:</h4>
 
-I'm a 2nd year Maths student at Cambridge with an interest in applied maths, and computing.
+I'm a 3rd year Maths student at Cambridge with an interest in statistics, numerical analysis, and computing.
 
 <h4>Contact me:</h4>
 
