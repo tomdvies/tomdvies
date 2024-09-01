@@ -1,25 +1,35 @@
-<h2>Tom Davies</h2>
-<h4>About me:</h4>
+I'm Tom, a 20 y/o Masters student at the University of Edinburgh, studying Statistics & Data Science. 
+For my undergrad, I studied Maths at the University of Cambridge primarily taking courses in Statistics, Probability, and Analysis. 
+I spend most of my free time coding, I'm primarily interested in the intersection of Mathematics, Statistics, and Computer Science.
 
-I'm a 3rd year Maths student at Cambridge with an interest in statistics, numerical analysis, and computing.
+#### Me in links:
+- twitter: [tomdvies](https://twitter.com/tomdvies)
+- discord: [tomdvies](https://discord.com/users/776466164397506600)
+- github: [tomdvies](https://github.com/tomdvies) 
+- email: [davies.evan.tom@gmail.com](mailto:davies.evan.tom@gmail.com)
+- My username on most other platforms is ***tomdvies***
 
-<h4>Contact me:</h4>
+#### Current interests:
+- High Dimensional, and Computational Statistics
+- Machine learning
+- Statistical Learning Theory
+- iOS Tweaks and Dev tools for jailbroken devices
+- Reverse engineering
+- Computational modelling
+- Numerical Analysis
+- Blockchains, particularly [mina](https://minaprotocol.com/)
 
-- <a href="mailto:davies.evan.tom@gmail.com">davies.evan.tom@gmail.com</a>
-
-<h4>Current interests:</h4>
-
-- iOS Tweaks and Dev tools for jailbroken devices.
-- Reverse engineering Apps, APIs and hardware.
-- Computational modelling.
-
-<h4>Languages & Skills:</h4>
+#### Languages & Skills:
 
 - Python
 - C++ & C
-- Objective C & C++
+- Rust
+- MatLab
+- Objective C (mainly in the context of jailbreaking)
 - Binary inspection using tools like Ghidra/IDA
 - Reverse engineering of APIs
+- Webscraping
+- Linux systems administration, including shell scripting, server management, and troubleshooting
 
 #### Github Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tomdvies&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
