@@ -1,5 +1,5 @@
 ## About me
-I'm Tom, a 20 y/o Masters student at the University of Edinburgh, studying Statistics & Data Science. 
+I'm Tom, a 21y/o Masters student at the University of Edinburgh, studying Statistics & Data Science. 
 For my undergrad, I studied Maths at the University of Cambridge primarily taking courses in Statistics, Probability, and Analysis. 
 I spend most of my free time coding, I'm primarily interested in the intersection of Mathematics, Statistics, and Computer Science.
 
